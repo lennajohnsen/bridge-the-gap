@@ -1,0 +1,94 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+.bg-primary {
+  background-color: #212222!important;
+}
+
+header {
+  padding: 100px 0 100px;
+}
+
+section {
+  padding: 50px 0 25px;
+}
+
+/* Body Styling */
+h1 {
+  font-family: aaux-next, chivo, sans-serif;
+  font-size: 36px;
+  color: white;
+  margin-bottom: 2rem;
+}
+
+h2 {
+  font-family: aaux-next, chivo, sans-serif;
+  font-size: 24px;
+  margin-bottom: .25rem;
+  color: black;
+}
+
+h3 {
+  font-family: aaux-next, chivo, sans-serif;
+  font-size: 36px;
+  margin-bottom: 1rem;
+  color: black;
+}
+
+h4 {
+  font-family: aaux-next, chivo, sans-serif;
+  font-size: 24px;
+  margin-bottom: .25rem;
+  color: white;
+}
+
+p{
+  font-family: aaux-next, chivo, sans-serif;
+  margin-top: 1rem;
+  font-size: 18px;
+}
+
+.footText{
+  font-family: aaux-next, chivo, sans-serif;
+  margin-top: 1rem;
+  font-size: 18px;
+  color:white;
+}
+
+
+.highlight{
+  background: linear-gradient(180deg, rgba(255,255,255,0) 65%, rgba(113,1,109,.25) 35%);
+}
+
+.footer{
+  font-family: aaux-next, chivo, sans-serif;
+  font-size: 12px;
+  color: white;
+}
+
+.container{
+  padding-top: 50px;
+}
+
+.containerEnd{
+  text-align: right;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.containerEndEnd{
+  padding: 0px 0 50px;
+}
+
+body{
+  background-color:white;
+}
+
+img{
+  padding:10px
+}
